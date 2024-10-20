@@ -1,5 +1,6 @@
 # Welcome to Reapit Foundations
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/796076f228a045e881149ae99608ead1)](https://app.codacy.com/gh/reapit/foundations?utm_source=github.com&utm_medium=referral&utm_content=reapit/foundations&utm_campaign=Badge_Grade)
 [![Build Pull Request](https://github.com/reapit/foundations/actions/workflows/build-pr.yml/badge.svg)](https://github.com/reapit/foundations/actions/workflows/build-pr.yml)
 [![Test Pull Request](https://github.com/reapit/foundations/actions/workflows/test-pr.yml/badge.svg)](https://github.com/reapit/foundations/actions/workflows/test-pr.yml)
 [![Release Dev](https://github.com/reapit/foundations/actions/workflows/release-dev.yml/badge.svg)](https://github.com/reapit/foundations/actions/workflows/release-dev.yml)
